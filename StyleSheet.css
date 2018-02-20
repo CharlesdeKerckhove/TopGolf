@@ -1,0 +1,100 @@
+/*general*/
+body{
+    background-color: rgba(55,194,79,0.2);
+    font-family: calibri;
+}
+#logo{
+    display: block;
+    margin:auto;
+}
+/*page one*/
+#containerHead{
+    width:100%;
+    height:auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-style:solid;
+    border-color:black;
+}
+#containerDes{
+    width:100%;
+    height:auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-style:solid;
+    border-color:black;
+}
+.containerOpt{
+    width:100%;
+    height:auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-style:solid;
+    border-color:black;
+    font-size: 2em;
+    text-align: center;
+}
+#containerOpt1{
+    width:95%;
+    height:auto;
+    margin-left: 2%;
+    margin-bottom: 5px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    position: inline-block;
+    float: left;
+    border-style:solid;    
+    border-color:black;
+}
+#containerOpt2{
+    width:95%;
+    height:auto;
+    margin-left: 2%;
+    margin-bottom: 5px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    position: inline-block;
+    float: left;
+    border-style:solid;
+    border-color:black;
+}
+#containerOpt3{
+    width:95%;
+    height:auto;
+    margin-left: 2%;
+    margin-bottom: 5px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    position: inline-block;
+    float: left;
+    border-style:solid;
+    border-color:black;
+}
+#containerOpt4{
+    width:95%;
+    height:auto;
+    margin-left: 2%;
+    margin-bottom: 5px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    position: inline-block;
+    float: left;
+    border-style:solid;
+    border-color:black;
+}
+#containerFoot{
+    width:100%;
+    height:50px;
+    border-style:solid;
+    border-color:black;
+    
+}
+#LogOut{
+    background-color: rgba(55,194,79,0.3);
+    width:100%;
+    height: auto;
+    font-size: 2em;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
