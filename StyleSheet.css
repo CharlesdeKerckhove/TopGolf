@@ -45,6 +45,7 @@ h3{
     text-decoration: none;
     display: inline-block;
 }
+
 /*page one*/
 #containerHead{
     width:100%;
@@ -123,25 +124,10 @@ h3{
     margin:auto;
 }
 #LogOut{
-    width:100%;
+    width: 100%;
     height: auto;
     font-size: 2em;
     text-align: center;
     padding-top: 2%;
     padding-bottom: 2%;
-}
-#LogIn{
-    width:100%;
-    height: auto;
-    font-size: 2em;
-    text-align: center;
-    padding-top: 2%;
-    padding-bottom: 2%;
-}
-#issues{
-    width:100%;
-    height:auto;
-    padding-top: 2%;
-    font-size: 1em;
-    text-align: center;
 }
