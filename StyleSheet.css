@@ -52,8 +52,6 @@ h3{
     height:auto;
     padding-top: 1%;
     padding-bottom: 1%;
-    /*border-style:solid;
-    border-color:black;*/
 }
 #containerDes{
     width:100%;
@@ -63,17 +61,15 @@ h3{
     font-size: 3em;
     text-align: center;
 }
-.containerOpt{
+#containerOpt{
     width:100%;
     height:auto;
     padding-top: 1%;
     padding-bottom: 1%;
-   /* border-style:solid;
-    border-color:black;*/
     font-size: 2em;
     text-align: center;
 }
-#containerOpt1{
+.containerOpt1{
     width:100%;
     height:auto;
     position: inline-block;
@@ -82,38 +78,7 @@ h3{
     border-color:black;
     background-color: rgba(55,194,79,0.3);
 }
-#containerOpt2{
-    width:100%;
-    height:auto;
-    position: inline-block;
-    float: left;
-    border-style:solid;
-    border-color:black;
-}
-#containerOpt3{
-    width:95%;
-    height:auto;
-    margin-left: 2%;
-    margin-bottom: 5px;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    position: inline-block;
-    float: left;
-    border-style:solid;
-    border-color:black;
-}
-#containerOpt4{
-    width:95%;
-    height:auto;
-    margin-left: 2%;
-    margin-bottom: 5px;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    position: inline-block;
-    float: left;
-    border-style:solid;
-    border-color:black;
-}
+
 #containerFoot{
     width:50%;
     height:auto;
@@ -122,6 +87,7 @@ h3{
     border-color:black;
     display: block;
     margin:auto;
+    text-align: center;
 }
 #LogOut{
     width: 100%;
