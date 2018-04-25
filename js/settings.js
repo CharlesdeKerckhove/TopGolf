@@ -1,20 +1,10 @@
+var Home = document.getElementById("Home");
 
-function newTraining(){
-        console.log("0");
-}
-function redoFailed(){
-        console.log("1");
-}
-function redoPassed(){
-        console.log("2");
-}
-function generalTraining(){
-    location.href="training.html";
-}
-function settings(){
-        location.href="settings.html";
-}
+Home.addEventListener("click", returnHome);
 
+function returnHome(){
+    location.href="selectTraining.html";
+}
 //Text Increase
 function textIncrease(){
     document.body.style.fontSize = "1.2em";

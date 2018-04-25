@@ -3,7 +3,7 @@
 <head>
     <title>Top Golf</title>
 <!--link to external files-->
-    <link href="StyleSheet.css" rel="stylesheet" type="text/css">
+    <link href="css/StyleSheet.css" rel="stylesheet" type="text/css">
     <script src="js/index.js" type="text/javascript" delay ></script>
 <!--responsive layout-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
