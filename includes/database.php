@@ -1,7 +1,7 @@
 <?php
 	session_start();
 	$host = 'localhost';
-	$dbname = 'idbmhzrq_TopGolf';
+	$dbname = 'topgolf';
 	$user = 'idbmhzrq_Admin';
 	$pass = 'qwertyuiop123';
 
