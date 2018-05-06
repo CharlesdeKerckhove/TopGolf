@@ -3,7 +3,7 @@ var Home = document.getElementById("Home");
 Home.addEventListener("click", returnHome);
 
 function returnHome(){
-    location.href="selectTraining.html";
+    location.href="selectTraining.php";
 }
 //Text Increase
 function textIncrease(){

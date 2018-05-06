@@ -3,8 +3,8 @@
 <head>
     <title>Top Golf</title>
 <!--link to external files-->
-    <link href="css/StyleSheet.css" rel="stylesheet" type="text/css">
-    <script src="js/settings.js" type="text/javascript" defer ></script>
+    <link href="../css/StyleSheet.css" rel="stylesheet" type="text/css">
+    <script src="../js/settings.js" type="text/javascript" defer ></script>
 <!--responsive layout-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 </head>
@@ -12,7 +12,7 @@
 <div data-role = "page" id = "pageOne">
     <div data-role = "header">
         <div id = "containerHead">
-            <img src="images/logo.png" alt = "logo" id = "logo">
+            <img src="../images/logo.png" alt = "logo" id = "logo">
         </div>
     </div>
     <br>

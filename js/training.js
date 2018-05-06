@@ -1,0 +1,1 @@
+Next.addEventListener("click", Next);
