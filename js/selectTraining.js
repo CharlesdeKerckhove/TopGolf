@@ -22,8 +22,8 @@ function redoPassed(){
         console.log("2");
 }
 function generalTraining(){
-    location.href="training.php";
+    location.href="pages/training.php";
 }
 function settings(){
-    location.href="settings.php";
+    location.href="../pages/settings.php";
 }
